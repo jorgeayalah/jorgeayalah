@@ -51,7 +51,7 @@
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="IFTTT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
+<br />
 
 ## Public Projects
 Here are some course team projects I've worked on:
@@ -67,8 +67,15 @@ Here are some course team projects I've worked on:
       <td>Collaborated and built an API management web application using Angular, Node.js and MySQL for the company Inflection Point Systems.</td>
       <td>Database modeling, front end and middleware</td>
     </tr>
+    <tr>
+      <th><a href="https://github.com/">Piñarcade</a></th>
+      <td>Developed mobile game application for children education about food poverty in collaboration with Cáritas de Monterrey non-profit organization. Integrated ninja video game using Swiftfor iOS devices with SpriteKitframework and Cloud Firestore.</td>
+      <td>Database modeling, front end and middleware</td>
+    </tr>
   </tbody>
 </table>
+
+
 
 
 <br />
