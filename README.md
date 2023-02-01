@@ -1,7 +1,4 @@
 ## Hi there, my name is Jorge! 👋🏻 [![](https://visitcount.itsvg.in/api?id=jorgeayalh&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/jayalahd)
-
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
@@ -10,6 +7,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=BS+ Computer+Science+and+Technology+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+<p align="center">
+  [![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
+  [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/jayalahd)
 </p>
 
 <p align="center">
