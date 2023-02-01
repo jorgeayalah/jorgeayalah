@@ -7,8 +7,8 @@
   <h3 align="center">⌨️ Jorge Ayala</h3>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BS+ Computer+Science+and+Technology+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Jorge+👋🏻&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
   [![](https://visitcount.itsvg.in/api?id=jorgeayalh&icon=0&color=0)](https://visitcount.itsvg.in)
