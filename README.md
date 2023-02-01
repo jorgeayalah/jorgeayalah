@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Jorge+👋🏻&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
 </p> 
 
+**`BS Computer Science and Technology Student (Tecnológico de Monterrey/Queen Mary University of London)`**
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="left">
+<!-- <p align="left">
   <h3 align="center">⌨️ B.S. Computer Science and Technology </h3>
-</p>
+</p> -->
 
 [![](https://visitcount.itsvg.in/api?id=jorgeayalh&icon=0&color=0)](https://visitcount.itsvg.in)
   [![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
