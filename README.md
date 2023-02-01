@@ -9,8 +9,8 @@
 </p> -->
 
 [![](https://visitcount.itsvg.in/api?id=jorgeayalh&icon=0&color=0)](https://visitcount.itsvg.in)
-  [![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
-  [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/jayalahd)
+[![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/jayalahd)
 
 
 ### 💻 Languages
@@ -53,7 +53,22 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
-
+## Public Projects
+Here are some course team projects I've worked on:
+<table>
+  <thead>
+    <th>Project ⚙️</th>
+    <th>Description 📝</th>
+    <th>Responsible for 🧑‍🏭</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th><a href="https://github.com/andrespinones/checkAPI">CheckAPI</a></th>
+      <td>Collaborated and built an API management web application using Angular, Node.js and MySQL for the company Inflection Point Systems.</td>
+      <td>Database modeling, front end and middleware</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <br />
