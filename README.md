@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  [![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
+  ##[![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
   [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/jayalahd)
 </p>
 
