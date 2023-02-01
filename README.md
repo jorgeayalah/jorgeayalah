@@ -70,7 +70,12 @@ Here are some course team projects I've worked on:
     <tr>
       <th><a href="https://github.com/">Piñarcade</a></th>
       <td>Developed mobile game application for children education about food poverty in collaboration with Cáritas de Monterrey non-profit organization.</td>
-      <td>Integrated <a href="https://github.com/jorgeayalah/NinjaGame">ninja video game</a> using Swift for iOS devices with SpriteKit framework and Cloud Firestore.</td>
+      <td>Integrated <a href="https://github.com/jorgeayalah/NinjaGame">ninja video game</a> using Swift for iOS devices with SpriteKit framework and Cloud Firestore. </td>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/jorgeayalah/humongousCab">HumongousCab</a></th>
+      <td>Designed and implemented a database solution for a Taxi company using NoSQL Document Oriented Model with MongoDB</td>
+      <td>Evaluated the assumptions, built and implemented the design with emebbing justifications and made the queries</td>
     </tr>
   </tbody>
 </table>
