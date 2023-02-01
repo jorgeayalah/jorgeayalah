@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there, my name is Jorge! 👋🏻 [![](https://visitcount.itsvg.in/api?id=jorgeayalh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Email Me](https://img.shields.io/badge/Email-ayalahjorge@gmail.com-BB001B.svg)](mailto:ayalahjorge@gmail.com)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/jayalahd)
+
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
