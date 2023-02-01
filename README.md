@@ -59,7 +59,7 @@
 
 ### 📊 Stats
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeayalah&show_icons=true&theme=city_lights)
-![GitHub Streak](https://streak-stats.demolab.com?user=jorgeayalah&theme=city_lights&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=jorgeayalah&theme=dark&border_radius=4.5)
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
